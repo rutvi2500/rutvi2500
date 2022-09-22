@@ -1,6 +1,6 @@
 ### Hello, I'm Rutvi! 👋
 
-- 🔭 I’m currently working on __JavaScript__ and ReactJs.
+- 🔭 I’m currently working on __JavaScript__ and __ReactJs__.
 - 🌱 I’m currently learning about **Progressive Web Apps**
 - 💬 Ask me about **Web development**
 ### Let's Connect!
